@@ -4,7 +4,7 @@
     "name" : "StringPair",
     "doc"  : "A pair of strings",
     "fields" : [
-        {"name" : "left", "type" : "string"},
-        {"name" : "right", "type" : "string"}
+        {"name" : "first", "type" : "string", "aliases" : ["left"]},
+        {"name" : "second", "type" : "string", "aliases" : ["right"]}
     ]
 }
