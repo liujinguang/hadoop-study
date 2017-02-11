@@ -1,0 +1,11 @@
+{
+    "namespace": "com.jliu.avro",
+    "type" : "record",
+    "name" : "SwitchedStringPair",
+    "doc"  : "A pair of strings, sorted by right field descending",
+    "fields" : [
+        {"name" : "right", "type" : "string"},
+        {"name" : "left", "type" : "string"},
+        
+    ]
+}
