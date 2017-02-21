@@ -38,7 +38,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>hadoop-examples</finalName>
+		<finalName>hadoop-mr-examples</finalName>
 		<plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
